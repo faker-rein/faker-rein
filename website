@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faker Rein - Merch Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff; /* white */
+            color: #000000; /* black */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #3498db; /* blue */
+            padding: 10px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            color: #ffffff; /* white */
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333333; /* dark gray */
+            color: #ffffff; /* white */
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Faker Rein</h1>
+    </header>
+    
+    <section>
+        <h2>Welcome to the Merch Store!</h2>
+        <p>Explore and grab some cool merchandise featuring Faker Rein.</p>
+        <!-- Add your merch store content here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Faker Rein. All rights reserved.</p>
+    </footer>
+</body>
+</html>
